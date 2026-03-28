@@ -4,6 +4,12 @@ SO-101 robot arm project using smolVLA for vision-language-action control.
 
 ---
 
+## Demo
+
+https://github.com/user-attachments/assets/b833c1d3-0475-4a1a-8e3f-a1d6a5a18c8c
+
+---
+
 ## Structure
 
 ### `so-101/`
