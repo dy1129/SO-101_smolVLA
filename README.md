@@ -23,9 +23,6 @@ Single-arm pick-and-place task (select blue battery among multiple objects → m
 SmolVLA-based control code for the SO-101 robot arm.  
 Based on [ggand0/vla-so101](https://github.com/ggand0/vla-so101), modified for our SO-101 setup.
 
-### `IsaacSim/`
-NVIDIA Isaac Sim environment used for rendering tests.
-
 ---
 
 ## Tech Stack
